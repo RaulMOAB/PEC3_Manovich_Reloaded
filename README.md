@@ -13,7 +13,7 @@ Fecha:
 La siguiente imagen sintetiza los principales casos de hibridación estudiados en el presente ensayo, mostrando cómo distintos medios tradicionales se combinan en plataformas digitales actuales.
 
 <p align="center">
-  <img src="images/mi-imagen.png" width="800">
+  <img src="images/PEC3_imagen portada.png" width="800">
 </p>
 
 
