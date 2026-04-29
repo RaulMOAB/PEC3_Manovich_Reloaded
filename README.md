@@ -20,13 +20,13 @@ Fecha:
 
 ## Introducción
 
-En el contexto de la cultura digital actual, el concepto de hibridación adquiere un papel fundamental para comprender la evolución de los medios bajo la lógica del software. Tal como plantea **Lev Manovich (2013)**, los nuevos medios no se limitan a digitalizar los formatos anteriores, ya que estos son reconfigurados mediante procesos computacionales que permiten su combinación, transformación y expansión funcional. En este sentido, el autor señala que “todas las maneras de acceder, distribuir, analizar y procesar los medios proceden del software” **(Manovich, 2013)**, situando así el software como elemento central en la transformación cultural contemporánea.
+En el contexto de la cultura digital actual, el concepto de **hibridación** adquiere un papel fundamental para comprender la evolución de los medios bajo la lógica del software. Tal como plantea **Lev Manovich (2013)**, los nuevos medios no se limitan a digitalizar los formatos anteriores, ya que estos son reconfigurados mediante procesos computacionales que permiten su combinación, transformación y expansión funcional. En este sentido, el autor señala que “todas las maneras de acceder, distribuir, analizar y procesar los medios proceden del software” **(Manovich, 2013)**, situando así el software como elemento central en la transformación cultural contemporánea.
 
-Desde esta perspectiva, la hibridación va más allá de la simple coexistencia de múltiples formatos en un mismo entorno -propia del multimedia- para implicar su integración e interacción dentro de estructuras compartidas. Este proceso da lugar a nuevas formas culturales y experiencias mediáticas más complejas. El software actúa como un metamedio que no solo simula medios previos, además los reorganiza mediante algoritmos y estructuras de datos,lo que permite la aparición de nuevas prácticas culturales.
+Desde esta perspectiva, la hibridación va más allá de la simple coexistencia de múltiples formatos en un mismo entorno -propia del multimedia- para implicar su integración e interacción dentro de estructuras compartidas. Este proceso da lugar a nuevas formas culturales y experiencias mediáticas más complejas. El software actúa como un metamedio que no solo simula medios previos, además los reorganiza mediante algoritmos y estructuras de datos, lo que permite la aparición de nuevas prácticas culturales.
 
 Además de esta dimensión técnica y estructural, este proceso se ve reforzado por las dinámicas propias de la cultura digital, como el *crowdsourcing* y la producción colectiva, cuyos usuarios participan activamente en la generación y transformación de contenidos. En este contexto, las plataformas digitales basadas en inteligencia artificial no se limitan únicamente a distribuir información, además, articulan sistemas híbridos en los que convergen medios, datos y prácticas sociales.
 
-En el presente ensayo, se analizan dos casos contemporáneos que evidencian esta transformación: la plataforma **TikTok** y las **herramientas de generación de imágenes** mediante inteligencia artificial como DALL·E o MindJourney. El objetivo no es únicamente describir estos entornos digitales, sino analizarlos desde el punto de vista de **Lev Manovich**, entendiendo la hibridación como un proceso en el que el software no solo integra medios, sino que transforma sus lógicas culturales y sus formas de uso.
+En el presente ensayo, se analizan dos casos contemporáneos que evidencian esta transformación: la plataforma **TikTok** y las **herramientas de generación de imágenes** mediante inteligencia artificial como DALL·E o MidJourney. El objetivo no es únicamente describir estos entornos digitales, sino analizarlos desde el punto de vista de **Manovich**, entendiendo la hibridación como un proceso en el que el software no solo integra medios, sino que transforma sus lógicas culturales y sus formas de uso.
 
 ## TikTok como sistema híbrido: algoritmos, modularidad y cultura participativa
 
@@ -43,9 +43,9 @@ Desde el punto de vista de la hibridación, TikTok no se limita a la simple inte
 
 El vídeo deja de ser una unidad cerrada y pasa a entenderse como un objeto modular, susceptible de ser reutilizado, reinterpretado y recombinado de forma constante. Esta lógica se relaciona directamente con los principios de los nuevos medios aportados por **Manovich (2013)**, en concreto la modularidad y la automatización. Los contenidos se estructuran en unidades independientes (clips, sonidos, efectos) que pueden ensamblarse dinámicamente según distintas combinaciones.
 
-Al mismo tiempo, el algoritmo de recomendación de contenidos actúa como un elemento estructurador que selecciona, jerarquiza y distribuye los contenidos. De este modo, funciones tradicionalmente asociadas a la edición audiovisual, como el montaje, pasan a ser gestionadas por software. En consecuencia,el sistema no solo media la experiencia del usuario, también interviene de manera activa en la producción de significado.
+Al mismo tiempo, el algoritmo de recomendación de contenidos actúa como un elemento estructurador que selecciona, jerarquiza y distribuye los contenidos. De este modo, funciones tradicionalmente asociadas a la edición audiovisual, como el montaje, pasan a ser gestionadas por software. En consecuencia, el sistema no solo media la experiencia del usuario, también interviene de manera activa en la producción de significado.
 
-Consecuentemente, esta transformación pone de manifiesto lo que **Manovich** describe como hibridación de medios, entendida como la integración de técnicas y lógicas previamente separadas en un mismo sistema. En sus palabras, *“en los híbridos de medios, las interfaces, técnicas y tradiciones de distintos medios se combinan en nuevas formas”* **(Manovich, 2013)**. En el caso de TikTok, esta combinación se materializa en la fusión entre edición audiovisual, interacción social y sistemas algorítmicos de recomendación.
+Consecuentemente, esta transformación pone de manifiesto lo que **Manovich** describe como hibridación de medios, entendida como la integración de técnicas y lógicas previamente separadas en un mismo sistema. En sus palabras, “en los híbridos de medios, las interfaces, técnicas y tradiciones de distintos medios se combinan en nuevas formas” **(Manovich, 2013)**. En el caso de TikTok, esta combinación se materializa en la fusión entre edición audiovisual, interacción social y sistemas algorítmicos de recomendación.
 
 En este contexto, el _feed_ personalizado se interpreta como una estructura de datos de carácter dinámico que se reconfigura continuamente a partir de la interacción del usuario. A diferencia de los medios tradicionales, donde el montaje responde a una decisión autoral, en TikTok esta función se delega en el sistema algorítmico, capaz de construir narrativas personalizadas en tiempo real.
 
@@ -60,7 +60,7 @@ En conjunto, TikTok constituye un ejemplo paradigmático de hibridación contemp
 </p>
 
 
-> *La siguiente imagen representa el proceso de generación de imágenes mediante inteligencia artificial, donde la interacción entre el usuario y el sistema algorítmico permite transformar instrucciones textuales en representaciones visuales, evidenciando la hibridación entre lenguaje, datos y creatividad computacional. Fuente: Imagen generada mediante inteligencia artificial (DALL·E, OpenAI), utilizada como recurso visual para representar procesos de creación mediada por software.*
+> *Figura 2: La siguiente imagen representa el proceso de generación de imágenes mediante inteligencia artificial, donde la interacción entre el usuario y el sistema algorítmico permite transformar instrucciones textuales en representaciones visuales, evidenciando la hibridación entre lenguaje, datos y creatividad computacional. Fuente: Imagen generada mediante inteligencia artificial (DALL·E, OpenAI), utilizada como recurso visual para representar procesos de creación mediada por software.*
 
 
 
@@ -70,7 +70,7 @@ Las herramientas de generación de imágenes mediante inteligencia artificial, c
 En el marco de la hibridación, estas herramientas no se limitan a combinar texto e imagen en una misma interfaz. Su funcionamiento implica una fusión en profundidad de ambos lenguajes, mediada por modelos algorítmicos entrenados con grandes volúmenes de datos visuales y textuales. El resultado no es una simple traducción de un medio a otro; se trata de la generación de una nueva forma de producción visual en la que el lenguaje se convierte en un mecanismo operativo que activa el proceso de creación.
 
 
-Este fenómeno se fundamenta en los planteamientos de **Lev Manovich**, especialmente en lo relativo al papel que tiene el software como metamedio.  La imagen generada no depende directamente de las habilidades técnicas tradicionales, en cambio, pasa a construirse mediante la interacción con una red neuronal que interpreta, transforma y materializa instrucciones en lenguaje natural.
+Este fenómeno se fundamenta en los planteamientos de **Manovich**, especialmente en lo relativo al papel que tiene el software como metamedio.  La imagen generada no depende directamente de las habilidades técnicas tradicionales, en cambio, pasa a construirse mediante la interacción con una red neuronal que interpreta, transforma y materializa instrucciones en lenguaje natural.
 
 Por otra parte, estas herramientas se sustentan en grandes conjuntos de datos que funcionan como base para el aprendizaje de los modelos. Una parte significativa de estos datos procede de producciones culturales generadas colectivamente en entornos digitales, lo que añade una dimensión vinculada al *crowdsourcing*. De este modo, la creación individual se apoya en un conocimiento previamente sistematizado y a partir de la contribución colectiva.
 
@@ -96,6 +96,16 @@ En definitiva, la hibridación, entendida como la fusión de técnicas y medios 
 
 Como cierre, la evolución de los medios digitales no puede entenderse sin considerar que, como afirma **Manovich (2013)**, el software se ha convertido en la infraestructura cultural que articula la producción y circulación de contenidos.
 
+## Uso de inteligencia artificial
+
+Durante el desarrollo de este trabajo se han utilizado herramientas de inteligencia artificial generativa, concretamente ChatGPT y DALL·E, como apoyo en diferentes fases del proceso de creación.
+
+En primer lugar, DALL·E ha sido empleado para la generación de imágenes utilizadas como recurso visual, con el objetivo de ilustrar los casos de hibridación analizados.
+
+Por otra parte, ChatGPT ha sido utilizado como herramienta de asistencia en la revisión y mejora del texto, especialmente en aspectos relacionados con la composición, claridad en la exposición y adecuación del tono académico. 
+
+En este sentido, el uso de estas herramientas no implica una sustitución de la autoría, sino que se integra como parte del proceso de producción del propio trabajo. De hecho, su uso refuerza el marco teórico planteado por **Manovich (2013)**, al situar el software como un agente activo no solo en la distribución y acceso a los contenidos, sino también en su generación y transformación dentro de la cultura digital.
+
 ## Bibliografía
 
 + Adell, J. (2024). _Fundamentos y evolución de la multimedia: remediación, multimedia e hibridación de los medios_. UOC.
@@ -105,6 +115,10 @@ Como cierre, la evolución de los medios digitales no puede entenderse sin consi
 + Gea, M. (2022). _Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto_. GitHub. https://github.com/mgea/CCpapers
 
 + McMillan, R. (2012). _Lord of the Files: How GitHub tamed free software (and more)_. GitHub. https://github.com/WiredEnterprise/Lord-of-the-Files
+
++ OpenAI. (2026). *ChatGPT* [Thinking 5.3]. https://chat.openai.com/
+  
++ OpenAI. (2026). *DALL·E* [Auto]. https://openai.com/
 
 
 
