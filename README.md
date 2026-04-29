@@ -8,7 +8,13 @@ Autor: Raúl Montoro Abaijón
 
 Fecha: 
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+## Casos de hibridación analizados
+
+La siguiente imagen sintetiza los principales casos de hibridación estudiados en el presente ensayo, mostrando cómo distintos medios tradicionales se combinan en plataformas digitales actuales.
+
+<p align="center">
+  <img src="images/mi-imagen.png" width="800">
+</p>
 
 
 
