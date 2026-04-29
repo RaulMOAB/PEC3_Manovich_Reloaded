@@ -77,13 +77,13 @@ Como cierre, la evolución de los medios digitales no puede entenderse sin consi
 
 ## Bibliografía
 
-Adell, J. (2024). _Fundamentos y evolución de la multimedia: remediación, multimedia e hibridación de los medios_. UOC.
++ Adell, J. (2024). _Fundamentos y evolución de la multimedia: remediación, multimedia e hibridación de los medios_. UOC.
 
-Manovich, L. (2013). _El software toma el mando_. UOC.
++ Manovich, L. (2013). _El software toma el mando_. UOC.
 
-Gea, M. (2022). _Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto_. GitHub. https://github.com/mgea/CCpapers
++ Gea, M. (2022). _Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto_. GitHub. https://github.com/mgea/CCpapers
 
-McMillan, R. (2012). _Lord of the Files: How GitHub tamed free software (and more)_. GitHub. https://github.com/WiredEnterprise/Lord-of-the-Files
++ McMillan, R. (2012). _Lord of the Files: How GitHub tamed free software (and more)_. GitHub. https://github.com/WiredEnterprise/Lord-of-the-Files
 
 
 
