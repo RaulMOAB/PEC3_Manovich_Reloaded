@@ -10,13 +10,13 @@ Fecha:
 
 ## Casos de hibridación analizados
 
-La siguiente imagen sintetiza los principales casos de hibridación estudiados en el presente ensayo, mostrando cómo distintos medios tradicionales se combinan en plataformas digitales actuales.
 
 <p align="center">
   <img src="images/PEC3_imagen portada.png" width="800">
 </p>
 
 
+> *La siguiente imagen sintetiza los principales casos de hibridación estudiados en el presente ensayo, mostrando cómo distintos medios tradicionales se combinan en plataformas digitales actuales. Fuente: Imagen generada mediante inteligencia artificial (DALL·E, OpenAI).*
 
 ## Introducción
 
@@ -30,6 +30,12 @@ En el presente ensayo, se analizan dos casos contemporáneos que evidencian esta
 
 ## TikTok como sistema híbrido: algoritmos, modularidad y cultura participativa
 
+<p align="center">
+  <img src="images/TikTok_banner.png" width="800">
+</p>
+
+
+> *Figura 1: La siguiente imagen representa la interfaz de TikTok como espacio de convergencia entre distintos medios y lógicas culturales. Fuente: Imagen generada mediante inteligencia artificial (DALL·E, OpenAI), utilizada como recurso visual para representar la hibridación de medios en entornos digitales.*
 
 La plataforma TikTok se ha consolidado como uno de los entornos más representativos de la cultura digital actual. Aunque superficialmente puede entenderse como una red social cuyo objetivo es la difusión de vídeos cortos, su funcionamiento revela un sistema mucho más complejo en el que convergen múltiples medios, tecnologías y prácticas culturales en un entorno altamente mediado por el software.
 
@@ -48,6 +54,15 @@ En paralelo, la plataforma ejemplifica de forma clara las dinámicas de producci
 En conjunto, TikTok constituye un ejemplo paradigmático de hibridación contemporánea. La integración de medios, algoritmos y participación social configura una experiencia mediática caracterizada por la personalización, la interacción constante y la reconfiguración continua del contenido. Se trata de un entorno en el que el software redefine la creación, distribución y consumo de los medios.
 
 ## La IA generativa: fusión entre lenguaje, imagen y algoritmo en la creación visual
+
+<p align="center">
+  <img src="images/IA_generativa.png" width="800">
+</p>
+
+
+> *La siguiente imagen representa el proceso de generación de imágenes mediante inteligencia artificial, donde la interacción entre el usuario y el sistema algorítmico permite transformar instrucciones textuales en representaciones visuales, evidenciando la hibridación entre lenguaje, datos y creatividad computacional. Fuente: Imagen generada mediante inteligencia artificial (DALL·E, OpenAI), utilizada como recurso visual para representar procesos de creación mediada por software.*
+
+
 
 Las herramientas de generación de imágenes mediante inteligencia artificial, como lo son Midjouney o DALL·E, representan uno de los ejemplos más significativos de hibridación cultural de nuestros días. Estos sistemas permiten la creación de imágenes a partir de *prompts* (descripciones en lenguaje natural), situando el proceso creativo en un plano donde convergen los medios, datos y operaciones computacionales.
 
