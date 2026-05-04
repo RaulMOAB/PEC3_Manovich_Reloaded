@@ -6,13 +6,13 @@
 Autor: Raúl Montoro Abaijón
 
 
-Fecha: 
+Fecha: Mayo 2026
 
 ## Casos de hibridación analizados
 
 
 <p align="center">
-  <img src="images/PEC3_imagen portada.png" width="800">
+  <img src="images/imagen_portada.png" width="800">
 </p>
 
 
