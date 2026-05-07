@@ -12,7 +12,7 @@ Fecha: Mayo 2026
 
 
 <p align="center">
-  <img src="images/imagen_portada.png" width="800">
+  <img src="images/imagen_portada.png" width="1000">
 </p>
 
 
@@ -30,10 +30,18 @@ En el presente ensayo, se analizan dos casos contemporáneos que evidencian esta
 
 De este modo, el análisis de los casos presentados permite comprender cómo el software no solo media los medios, sino que establece las condiciones bajo las cuales estos pueden ser producidos, distribuidos y experimentados. 
 
+<p align="center">
+  <img src="images/hibridacion_mediatica.png" width="1000">
+</p>
+
+> *Figura 0: Esquema conceptual del proceso de hibridación mediática en la cultura digital. Fuente: Elaboración propia basada en Manovich (2013)*
+
+
+
 ## TikTok como sistema híbrido: algoritmos, modularidad y cultura participativa
 
 <p align="center">
-  <img src="images/TikTok_banner.png" width="800">
+  <img src="images/TikTok_banner.png" width="1000">
 </p>
 
 
