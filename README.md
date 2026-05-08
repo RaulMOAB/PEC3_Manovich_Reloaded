@@ -7,7 +7,6 @@ Autor: Raúl Montoro Abaijón
 
 Fecha: Mayo 2026
 
-## Casos de hibridación analizados
 
 
 <p align="center">
@@ -46,7 +45,7 @@ De este modo, el análisis de los casos presentados permite comprender cómo el 
 
 
 
-## TikTok como sistema híbrido: algoritmos, modularidad y cultura participativa
+# TikTok como sistema híbrido: algoritmos, modularidad y cultura participativa
 
 <p align="center">
   <img src="images/TikTok_banner.png" width="1000">
@@ -99,7 +98,7 @@ Se trata de un entorno donde el software redefine la creación, distribución y 
 
 Esto evidencia que el software organiza los contenidos y, al mismo tiempo, define las condiciones en las que se produce la experiencia mediática. Por ello, TikTok puede considerarse una nueva plataforma de medios, en la que el software distribuye contenidos y configura activamente la experiencia mediática.
 
-## La IA generativa: fusión entre lenguaje, imagen y algoritmo en la creación visual
+#La IA generativa: fusión entre lenguaje, imagen y algoritmo en la creación visual
 
 <p align="center">
   <img src="images/IA_generativa.png" width="800">
