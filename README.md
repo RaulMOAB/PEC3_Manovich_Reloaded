@@ -19,13 +19,22 @@ Fecha: Mayo 2026
 
 ## Introducción
 
+Ponerse las “gafas de Manovich” para analizar plataformas como TikTok o las herramientas de IA generativa implica comprender que el software ya no actúa únicamente como soporte técnico de los medios, sino como el entorno desde el cual estos son producidos, organizados y experimentados.
+
 En el contexto de la cultura digital actual, el concepto de **hibridación** adquiere un papel fundamental para comprender la evolución de los medios bajo la lógica del software. Tal como plantea **Lev Manovich (2013)**, los nuevos medios no se limitan a digitalizar los formatos anteriores, ya que estos son reconfigurados mediante procesos computacionales que permiten su combinación, transformación y expansión funcional. En este sentido, el autor señala que “todas las maneras de acceder, distribuir, analizar y procesar los medios proceden del software” **(Manovich, 2013)**, situando así el software como elemento central en la transformación cultural contemporánea.
 
-Desde esta perspectiva, la hibridación va más allá de la simple coexistencia de múltiples formatos en un mismo entorno -propia del multimedia- para implicar su integración e interacción dentro de estructuras compartidas. Este proceso da lugar a nuevas formas culturales y experiencias mediáticas más complejas. El software actúa como un metamedio que no solo simula medios previos, sino que los reorganiza mediante algoritmos y estructuras de datos, lo que permite la aparición de nuevas prácticas culturales.
+Desde esta perspectiva, la hibridación va más allá de la simple coexistencia de múltiples formatos en un mismo entorno —propia del multimedia— para implicar su integración e interacción dentro de estructuras compartidas. Este proceso da lugar a nuevas formas culturales y experiencias mediáticas más complejas. El software actúa como un metamedio que no solo simula medios previos, sino que los reorganiza mediante algoritmos y estructuras de datos, lo que permite la aparición de nuevas prácticas culturales.
 
 Junto a esta dimensión técnica y estructural, este hecho se ve reforzado por las dinámicas propias de la cultura digital, como el *crowdsourcing* y la producción colectiva, cuyos usuarios participan activamente en la generación y transformación de contenidos. En este entorno, las plataformas digitales basadas en inteligencia artificial no se limitan únicamente a distribuir información, asimismo, articulan sistemas híbridos en los que convergen medios, datos y prácticas sociales.
 
-En el presente ensayo, se analizan dos casos contemporáneos que evidencian esta transformación: la plataforma **TikTok** y las **herramientas de generación de imágenes** mediante inteligencia artificial como DALL·E o MidJourney. El objetivo no es únicamente describir estos entornos digitales, sino analizarlos desde el punto de vista de **Manovich (2013)**, entendiendo la hibridación como un proceso donde el software no solo integra medios, sino que transforma sus lógicas culturales y sus formas de uso. La hibridación se diferencia del multimedia en que no implica solo la coexistencia de medios, sino su  estructural dentro de una misma lógica computacional.
+En el presente ensayo, se analizan dos casos contemporáneos que evidencian esta transformación: la plataforma **TikTok** y las **herramientas de generación de imágenes** mediante inteligencia artificial como DALL·E o MidJourney. El objetivo no es únicamente describir estos espacios digitales, sino analizarlos desde el punto de vista de **Manovich (2013)**, entendiendo la hibridación como un proceso donde el software no solo integra medios, sino que transforma sus lógicas culturales y sus formas de uso. La hibridación se diferencia del multimedia en que no implica solo la coexistencia de medios, sino su integración estructural dentro de una misma lógica computacional.
+
+De este modo, el análisis de los casos presentados permite comprender cómo el software no solo media los medios, sino que establece las condiciones bajo las cuales estos pueden ser producidos, distribuidos y experimentados.
+
+Uno de los espacios donde esta transformación puede observarse con mayor claridad es TikTok, plataforma que ejemplifica cómo el software integra distintos medios y reorganiza sus dinámicas culturales dentro de una misma lógica algorítmica.
+
+---
+
 
 De este modo, el análisis de los casos presentados permite comprender cómo el software no solo media los medios, sino que establece las condiciones bajo las cuales estos pueden ser producidos, distribuidos y experimentados. 
 
