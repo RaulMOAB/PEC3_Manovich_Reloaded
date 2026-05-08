@@ -1,10 +1,12 @@
-PEC 3 - El software como metamedio: hibridación y transformación cultural en TikTok y la IA generativa
+## PEC 3 - El software como metamedio: hibridación y transformación cultural en TikTok y la IA generativa
 
-Autor: Raúl Montoro Abaijón
-Asingatura: Cultura Digital
-Fecha: Mayo 2026
+<p><strong>Autor:</strong> Raúl Montoro Abaijón</p>
 
+<p><strong>Assignatura:</strong> Cultura Digital</p>
 
+<p><strong>Fecha:</strong> Mayo 2026</p>
+
+<hr>
 
 <p align="center">
   <img src="images/imagen_portada.png" width="1000">
