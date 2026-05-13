@@ -140,6 +140,8 @@ Dicha transformación da forma a una experiencia mediática claramente diferenci
 
 Esta integración pone de manifiesto, de forma práctica, los propios procesos de hibridación y transcodificación analizados a lo largo del ensayo.
 
+Bajo este prisma, la imagen deja de entenderse exclusivamente como un producto visual y pasa a formar parte de un sistema más amplio de datos, automatización e interacción algorítmica. Desde la perspectiva de **Manovich (2013)**, este tipo de procesos evidencian cómo el software actúa como una infraestructura cultural que es capaz de redefinir las formas de producción y experimentación mediática en la cultura digital contemporánea.
+
 ## Conclusiones
 
 Tras el análisis de los casos de TikTok y las herramientas de IA generativa, se observa cómo la hibridación se consolida como una de las principales dinámicas en la evolución de los medios digitales. En ambos casos, no se produce una simple coexistencia de formatos, en su lugar, se genera una fusión de técnicas y lenguajes que da lugar a nuevas formas culturales y experiencias mediáticas.
