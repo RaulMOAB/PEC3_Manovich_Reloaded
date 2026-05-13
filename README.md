@@ -2,7 +2,7 @@
 
 <p><strong>Autor:</strong> Raúl Montoro Abaijón</p>
 
-<p><strong>Assignatura:</strong> Cultura Digital</p>
+<p><strong>Asignatura:</strong> Cultura Digital</p>
 
 <p><strong>Fecha:</strong> Mayo 2026</p>
 
@@ -17,9 +17,9 @@
 
 ## Introducción
 
-Ponerse las “gafas de Manovich” para analizar plataformas como TikTok o las herramientas de IA generativa implica comprender que el software ya no actúa únicamente como soporte técnico de los medios, sino como el entorno desde el cual estos son producidos, organizados y experimentados.
+Ponerse las “gafas de Manovich” para analizar plataformas como TikTok o las herramientas de IA generativa implica comprender que el software ha dejado de funcionar únicamente como soporte técnico de los medios para convertirse en el entorno desde el cual estos son producidos, organizados y experimentados.
 
-En el contexto de la cultura digital actual, el concepto de **hibridación** conlleva un papel fundamental para comprender la evolución de los medios bajo la lógica del software. Tal como plantea **Lev Manovich (2013)**, los nuevos medios no se limitan a digitalizar los formatos anteriores, ya que estos son reconfigurados mediante procesos computacionales que permiten su combinación, transformación y expansión funcional. En este sentido, el autor señala que “todas las maneras de acceder, distribuir, analizar y procesar los medios proceden del software” **(Manovich, 2013)**, situando así el software como elemento central en la transformación cultural contemporánea.
+En el contexto de la cultura digital actual, el concepto de **hibridación** adquiere un papel fundamental para comprender la evolución de los medios bajo la lógica del software. Tal como plantea **Lev Manovich (2013)**, los nuevos medios no se limitan a digitalizar los formatos anteriores, ya que estos son reconfigurados mediante procesos computacionales que permiten su combinación, transformación y expansión funcional. En este sentido, el autor señala que “todas las maneras de acceder, distribuir, analizar y procesar los medios proceden del software” **(Manovich, 2013)**, situando así el software como elemento central en la transformación cultural contemporánea.
 
 Desde esta perspectiva, la hibridación va más allá de la simple coexistencia de múltiples formatos en un mismo entorno —propia del multimedia— para implicar su integración e interacción dentro de estructuras compartidas. Este proceso da lugar a nuevas formas culturales y experiencias mediáticas más complejas. El software actúa como un metamedio que no solo simula medios previos, sino que los reorganiza mediante algoritmos y estructuras de datos, lo que permite la aparición de nuevas prácticas culturales.
 
@@ -34,7 +34,6 @@ Uno de los espacios donde esta transformación puede observarse con mayor clarid
 ---
 
 
-De este modo, el análisis de los casos presentados permite comprender cómo el software no solo media los medios, sino que establece las condiciones bajo las cuales estos pueden ser producidos, distribuidos y experimentados. 
 
 <p align="center">
   <img src="images/hibridacion_mediatica.png" width="1000">
@@ -65,7 +64,7 @@ Esta configuración no puede entenderse como un caso de multimedia, cuyos distin
 
 El vídeo deja de ser una unidad cerrada y pasa a entenderse como un objeto modular, susceptible de ser reutilizado, reinterpretado y recombinado de forma constante. Esta lógica se relaciona directamente con los principios de los nuevos medios aportados por **Manovich (2013)**, en concreto la modularidad y la automatización. 
 
-Los contenidos se estructuran en unidades independientes (clips, sonidos, efectos) que pueden ensamblarse dinámicamente según distintas combinaciones. Este tipo de dinámicas se entiende como un caso de **remezclabilidad profunda**, donde los distintos medios se combinan y comparten una misma lógica computacional, permitiendo su transformación y recombinación continua. 
+Los contenidos se estructuran en unidades independientes (clips, sonidos, efectos) que pueden ensamblarse dinámicamente según distintas combinaciones. Este tipo de dinámicas se entiende como un caso de **remezclabilidad profunda**, en el que los distintos medios se combinan y comparten una misma lógica computacional, permitiendo su transformación y recombinación continua. 
 
 En este contexto, TikTok trasciende la evolución del medio audiovisual y se configura como una remezcla de múltiples medios que genera una nueva forma de producción cultural.
 
@@ -73,7 +72,7 @@ En este contexto, TikTok trasciende la evolución del medio audiovisual y se con
 
 Al mismo tiempo, el algoritmo de recomendación de contenidos actúa como un elemento estructurador que selecciona, jerarquiza y distribuye los contenidos. De este modo, funciones tradicionalmente asociadas a la edición audiovisual, como el montaje, pasan a ser gestionadas por software.
 
-En consecuencia, el sistema no solo media la experiencia del usuario, sino también interviene de manera activa en la producción de significado. A partir de ello, la hibridación no se produce únicamente en los contenidos, sino también en la interfaz y en las operaciones algorítmicas que estructuran la experiencia del usuario. 
+En consecuencia, el sistema no solo media la experiencia del usuario, también interviene de manera activa en la producción de significado. A partir de ello, la hibridación no se produce únicamente en los contenidos, sino también en la interfaz y en las operaciones algorítmicas que estructuran la experiencia del usuario. 
 
 Por ello, la hibridación en TikTok no puede localizarse únicamente en el vídeo final que consume el usuario. Esta también se produce en la interfaz, en los sistemas de recomendación, en las herramientas de edición integradas y en las dinámicas de interacción social que articulan la plataforma. El resultado es un sistema donde los distintos medios dejan de funcionar de manera aislada y pasan a operar como parte de una estructura computacional unificada.
 
@@ -95,7 +94,7 @@ En conjunto, TikTok constituye un ejemplo paradigmático de hibridación contemp
 
 Se trata de un entorno donde el software redefine la creación, distribución y consumo de los medios.
 
-Esto evidencia que el software organiza los contenidos y, al mismo tiempo, define las condiciones en las que se produce la experiencia mediática. Por ello, TikTok puede considerarse una nueva plataforma de medios, en la que el software distribuye contenidos y configura activamente la experiencia mediática.
+Todo ello evidencia que el software organiza los contenidos y, al mismo tiempo, define las condiciones en las que se produce la experiencia mediática. Por ello, TikTok puede considerarse una nueva plataforma de medios, en la que el software distribuye contenidos y configura activamente la experiencia mediática.
 
 # La IA generativa: fusión entre lenguaje, imagen y algoritmo en la creación visual
 
@@ -107,7 +106,7 @@ Esto evidencia que el software organiza los contenidos y, al mismo tiempo, defin
 > *Figura 2: La siguiente imagen representa el proceso de generación de imágenes mediante inteligencia artificial, donde la interacción entre el usuario y el sistema algorítmico permite transformar instrucciones textuales en representaciones visuales, evidenciando la hibridación entre lenguaje, datos y creatividad computacional. Fuente: Imagen generada mediante inteligencia artificial (DALL·E, OpenAI), utilizada como recurso visual para representar procesos de creación mediada por software.*
 
 
-## Lenguaje y creación visual comptucaional
+## Lenguaje y creación visual computacional
 
 Las herramientas de generación de imágenes mediante inteligencia artificial, como MidJourney o DALL·E, representan uno de los ejemplos más significativos de hibridación cultural de nuestros días. Estos sistemas permiten la creación de imágenes a partir de *prompts* (descripciones en lenguaje natural), situando el proceso creativo en un plano donde convergen los medios, datos y operaciones computacionales.
 
@@ -116,11 +115,13 @@ En el marco de la hibridación, estas herramientas no se limitan a combinar text
 
 El resultado no es una simple traducción de un medio a otro; supone la aparición de una nueva forma de producción visual en la que el lenguaje se convierte en un mecanismo operativo que activa el proceso de creación. De este modo, deja de ser únicamente descriptivo para adquirir una función operativa dentro de la producción visual.
 
+Esta transformación modifica también la relación tradicional entre lenguaje e imagen. En herramientas como MidJourney o DALL·E, una instrucción en lenguaje natural puede generar ilustraciones, fotografías simuladas o composiciones visuales híbridas que combinan estilos artísticos, referencias culturales y elementos propios de distintos medios. Por lo tanto, el lenguaje escrito deja de funcionar únicamente como descripción y pasa a actuar como interfaz de producción visual dentro de un sistema computacional.
+
 En este sentido, la IA generativa representa una nueva forma de interacción con los medios, donde el lenguaje, los datos y la automatización convergen dentro de un mismo sistema híbrido.
 
 ## Software, automatización y producción visual
 
-Este fenómeno se fundamenta en los planteamientos de **Manovich (2013)**, especialmente en lo relativo al papel que tiene el software como metamedio.  La imagen generada no depende directamente de las habilidades técnicas tradicionales, en cambio, pasa a construirse mediante la interacción con una red neuronal que interpreta, transforma y materializa instrucciones en lenguaje natural.
+Este fenómeno se fundamenta en los planteamientos de **Manovich (2013)**, especialmente en lo relativo al papel que tiene el software como metamedio. La imagen generada no depende directamente de las habilidades técnicas tradicionales; pasa a construirse mediante la interacción con una red neuronal que interpreta, transforma y materializa instrucciones en lenguaje natural.
 
 Por otra parte, estas herramientas se sustentan en grandes conjuntos de datos que funcionan como base para el aprendizaje de los modelos. Una parte significativa de estos datos procede de producciones culturales generadas colectivamente en entornos digitales, lo que añade una dimensión vinculada al *crowdsourcing*. 
 
@@ -136,7 +137,7 @@ En conjunto, la generación de imágenes por IA constituye un buen ejemplo de hi
 
 Dicha transformación da forma a una experiencia mediática claramente diferenciada, caracterizada por la automatización de procesos creativos, la variabilidad en los resultados y la interacción constante usuario-sistema. Más que una herramienta, se presenta como un entorno cuyo software redefine los límites de la autoría, la creatividad y la producción cultural en la era digital.
 
-## Hibridación y transcodificacción en la IA generativa
+## Hibridación y transcodificación en la IA generativa
 
 Esta integración pone de manifiesto, de forma práctica, los propios procesos de hibridación y transcodificación analizados a lo largo del ensayo.
 
@@ -165,6 +166,8 @@ Desde una perspectiva más personal, esta transformación plantea una tensión i
 En definitiva, la hibridación, entendida como la fusión de técnicas y medios dentro del software, redefine las condiciones de creación, distribución y consumo cultural. Lejos de limitarse a integrar los formatos existentes, estos sistemas se expanden generando nuevas formas de representar el mundo y de interactuar con él, consolidando el papel del software como el elemento central en la configuración de los medios digitales actuales.
 
 En última instancia, la evolución de los medios digitales no puede entenderse sin considerar que, como afirma **Manovich (2013)**, el software se ha convertido en la infraestructura cultural que articula la producción y circulación de contenidos. Desde esta perspectiva, casos como TikTok o la IA generativa evidencian que la hibridación ya no constituye una característica puntual de los nuevos medios, sino una lógica estructural propia de la cultura digital contemporánea. 
+
+Quizá uno de los aspectos más relevantes de esta transformación es que muchos de estos procesos pasan desapercibidos para el usuario. La hibridación ya no se percibe como una característica excepcional de los medios digitales, sino como una condición integrada en la experiencia cotidiana de interacción con plataformas, algoritmos y sistemas automatizados.
 
 En consecuencia, comprender los medios actuales implica también comprender las dinámicas algorítmicas y computacionales que condicionan nuestra manera de crear, interactuar y consumir cultura digital.
 
